@@ -1,0 +1,45 @@
+/* ----------------------GOOGLE FONT POPINES------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,400;1,500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+ /* ------------------------------------    HEADER     --------------------------- */
+.head-container{
+    padding-left: 120px;
+    padding-top: 25px;
+    padding-right: 120px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.acssacories a{
+    text-decoration: none;
+    color: black;
+    padding-left: 1em;
+}
+ /* ------------------------------------------    section 1 ----------------------- */
+
+.camera-part{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 120px;
+    padding-right: 56px;
+}
+
+.intro{
+    font-size: 47px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.info{
+    font-size: 16px;
+}
+.img-part{
+    height: 400px;
+    width: 426px;
+    margin-left: 120px;
+}
